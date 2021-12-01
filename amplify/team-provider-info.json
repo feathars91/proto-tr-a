@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-prototra-dev-140914-authRole",
+      "UnauthRoleArn": "arn:aws:iam::755956835466:role/amplify-prototra-dev-140914-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::755956835466:role/amplify-prototra-dev-140914-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-prototra-dev-140914-deployment",
+      "UnauthRoleName": "amplify-prototra-dev-140914-unauthRole",
+      "StackName": "amplify-prototra-dev-140914",
+      "StackId": "arn:aws:cloudformation:us-east-1:755956835466:stack/amplify-prototra-dev-140914/90f562d0-52e2-11ec-a1a3-0e0b4b990c91",
+      "AmplifyAppId": "d3k930lcob7an"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3k930lcob7an",
+          "type": "cicd"
+        }
+      },
+      "auth": {
+        "prototrac6abce8b": {}
+      }
+    }
+  }
+}
