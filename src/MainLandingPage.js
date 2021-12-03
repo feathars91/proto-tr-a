@@ -143,7 +143,7 @@ export default ({
               <NavLink target="_blank" href="https://owaiskhan.me/post/free-tailwindcss-react-ui-kit">
                 License & Usage
               </NavLink>
-              <NavLink target="_blank" href="https://owaiskhan.me">
+              <NavLink target="_blank" href="/components/innerPages/ContactUsPage">
                 Who Am I ?
               </NavLink>
               <NavLink target="_blank" href="https://twitter.com/owaiswiz">

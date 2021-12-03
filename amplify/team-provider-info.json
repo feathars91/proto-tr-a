@@ -20,6 +20,12 @@
       },
       "auth": {
         "prototrac6abce8b": {}
+      },
+      "function": {
+        "formfunction": {
+          "deploymentBucketName": "amplify-prototra-dev-140914-deployment",
+          "s3Key": "amplify-builds/formfunction-6742346f327a4a554e5a-build.zip"
+        }
       }
     }
   }
